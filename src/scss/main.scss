@@ -1,0 +1,29 @@
+@import "../../node_modules/bulma/bulma.sass";
+
+*.h-100 {
+    height: 100vh;
+}
+
+*.w-100p {
+    width: 100%;
+}
+
+*.h-100p {
+    height: 100%;
+}
+
+.btn-yellow {
+    background: #FCA311;
+    color: #000;
+}
+
+.bg-dark-blue {
+    background: #14213D;
+}
+
+.display-1.title {
+    font-weight: 300;
+    color: #fff;
+    text-align: center;
+    font-size: 2.4rem;
+}
